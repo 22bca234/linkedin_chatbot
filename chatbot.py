@@ -10,7 +10,7 @@ def load_chatbot():
 
 chatbot = load_chatbot()
 
-st.title("🤖 AI Chatbot")
+st.title("🤖 LinkedIn AI Chatbot")
 st.write("Ask me anything!")
 
 if "chat_history" not in st.session_state:
