@@ -1,5 +1,5 @@
 import streamlit as st
-from transformers import pipeline, Conversation
+from transformers.pipelines.conversational import Conversation
 
 # Set Streamlit page title and layout
 st.set_page_config(page_title="Chatbot", layout="centered")
