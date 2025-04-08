@@ -12,7 +12,7 @@ def load_chatbot():
 
 chatbot = load_chatbot()
 
-st.title("🤖 LinkedIn AI Chatbot")
+st.title("🤖 ProConnect AI Chatbot")
 st.write("Ask me anything!")
 
 # Initialize session state for conversation history and input counter
